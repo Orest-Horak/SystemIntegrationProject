@@ -1,0 +1,108 @@
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.exe
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache

@@ -1,0 +1,64 @@
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csprojAssemblyReference.cache
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfoInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfo.cs
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.deps.json
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.json
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.dev.json
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CopyComplete
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\source\repos\ScraperConsole\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.genruntimeconfig.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.exe
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.deps.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.runtimeconfig.dev.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csprojAssemblyReference.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CoreCompileInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfoInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.AssemblyInfo.cs
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.csproj.CopyComplete
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\ScraperProject\obj\Debug\netcoreapp3.1\ScraperProject.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "queue": {
+    "queue": "NewsDTO",
+    "durable": false,
+    "exclusive": false,
+    "autoDelete": false
+  },
+  "factory": {
+    "HostName": "localhost"
+  }
+}
