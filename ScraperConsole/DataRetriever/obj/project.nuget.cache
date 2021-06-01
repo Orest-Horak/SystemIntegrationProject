@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gLZb/nQJ3DyfvUcXlsJjbPVZ2W25gy5WDUQhf9nctuEOl8bu4udXg3xVU0wgykko5UPUp/pRv0H97+f8l+NVzw==",
+  "dgSpecHash": "uNQeHZmkDX+5SrBtuvlsai0w1vMjYZ2gGtI3TR3jqLoTTtdWc13wjG4MhMHT/npDC2rmjRcPQHBr/pnYGMNrkw==",
   "success": true,
-  "projectFilePath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\DataRetriever\\DataRetriever.csproj",
+  "projectFilePath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\DataRetriever\\DataRetriever.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

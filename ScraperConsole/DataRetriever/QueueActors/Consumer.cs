@@ -12,10 +12,12 @@ namespace DataRetriever
         private QueueConfiguration queueConfiguration;
         private ConsumerConfiguration consumerConfiguration;
         private MongoCRUD mongoDb;
+        private string table;
 
         public QueueConfiguration QueueConfiguration { get => queueConfiguration; set => queueConfiguration = value; }
         public ConsumerConfiguration ConsumerConfiguration { get => consumerConfiguration; set => consumerConfiguration = value; }
         public MongoCRUD MongoDb { get => mongoDb; set => mongoDb = value; }
+        public string Table { get => table; set => table = value; }
 
         public void Consume()
         {
@@ -57,7 +59,7 @@ namespace DataRetriever
                 {
                     var body = ea.Body;
                     NewsDTO n = JsonConvert.DeserializeObject<NewsDTO>(Encoding.UTF8.GetString(body.ToArray()));
-                    mongoDb.InsertRecord("News", n);
+                    mongoDb.InsertRecord(table, n);
                     Console.WriteLine(" [x] Received \n {0}", n);
                 };
 

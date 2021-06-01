@@ -42,7 +42,7 @@ namespace DataRetriever
             //publisher.PublisherConfiguration = publisherConfig;
 
             ////crawl and publish
-            //ICrawl crawler = new Nature_Crawler();
+            //ICrawl crawler = new ViceCrawler();
             //var list = crawler.Crawl();
 
             //foreach (var title in list)
@@ -56,15 +56,16 @@ namespace DataRetriever
             //}
 
 
-            //consumer
-            var consumerConfigurationJson = JsonFunctions.ReadFrom(ConfigurationFilesRoutes.GetConsumerConfigRoute());
-            var consumerConfig = new ConsumerConfiguration(consumerConfigurationJson);
+            ////consumer
+            //var consumerConfigurationJson = JsonFunctions.ReadFrom(ConfigurationFilesRoutes.GetConsumerConfigRoute());
+            //var consumerConfig = new ConsumerConfiguration(consumerConfigurationJson);
 
-            var consumer = new Consumer();
-            consumer.QueueConfiguration = queueConfig;
-            consumer.ConsumerConfiguration = consumerConfig;
-            consumer.MongoDb = new MongoCRUD("NewsCrawl");
-            consumer.Consume();
+            //var consumer = new Consumer();
+            //consumer.QueueConfiguration = queueConfig;
+            //consumer.ConsumerConfiguration = consumerConfig;
+            //consumer.MongoDb = new MongoCRUD("NewsCrawl");
+            //consumer.Table = "News";
+            //consumer.Consume();
 
             Console.WriteLine(" Press [enter] to exit.");
             Console.ReadLine();

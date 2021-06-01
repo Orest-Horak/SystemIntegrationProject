@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xtIeD6YMiWAjvPsczFhYcdNWicnz0Ys2SS8KIPa4s5l+EtKBNewqiX7EnoS+ESLW3gw3XtAp2sXt7E1RPbauGw==",
+  "dgSpecHash": "h5z+ptkWAwBjnGdNK5FJgxYhe7zfsE08plnCNYbb9NBgYlfJB0UEG7DxJScSE2nCKJwnug3W/abHs5IfdSYynQ==",
   "success": true,
-  "projectFilePath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\ScraperProject\\ScraperProject.csproj",
+  "projectFilePath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\ScraperProject\\ScraperProject.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

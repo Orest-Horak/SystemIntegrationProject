@@ -5243,11 +5243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\ScraperProject\\ScraperProject.csproj",
+      "projectUniqueName": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\ScraperProject\\ScraperProject.csproj",
       "projectName": "ScraperProject",
-      "projectPath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\ScraperProject\\ScraperProject.csproj",
+      "projectPath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\ScraperProject\\ScraperProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\ScraperProject\\obj\\",
+      "outputPath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\ScraperProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

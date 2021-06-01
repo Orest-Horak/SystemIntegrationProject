@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcodjN8SzXM3dhVdiEfXcEsUKBftlZ/mkCbhO3OmxTRHfrsTIVsnrz72KT96PCNBXEe/KJO7DgHkb+zewcPAPg==",
+  "dgSpecHash": "v+E5+XvwQZBQj7CuwU2/gmM5zUVfAH7rV1/JMXoN2YZsHLclImTlPRbvRGMqym6SrfKQGAXz4pfBeqbQi0bSiQ==",
   "success": true,
-  "projectFilePath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\DTO\\DTO.csproj",
+  "projectFilePath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

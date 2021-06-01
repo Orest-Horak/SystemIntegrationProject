@@ -456,11 +456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\DTO\\DTO.csproj",
+      "projectUniqueName": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\DTO\\DTO.csproj",
+      "projectPath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\DTO\\DTO.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TelegramDownloads\\ScraperConsole1\\ScraperConsole\\DTO\\obj\\",
+      "outputPath": "D:\\TelegramDownloads\\NewsPageCrawler (3)\\NewsPageCrawler\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

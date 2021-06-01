@@ -68,40 +68,112 @@ C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр
 C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
 C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
 C:\Users\mkrai\Documents\Навчальна папка\5 рік 2 семестр\Інтеграція програмних систем (екзамен)\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
-D:\TelegramDownloads\ScraperConsole1\ScraperConsole\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+C:\Users\mkrai\Documents\Studying folder\5 year 2\projects-repository\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.exe
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.exe
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.exe
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.deps.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.runtimeconfig.dev.json
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DataRetriever.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\MongoDB.LibMongocrypt.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\bin\Debug\netcoreapp3.1\ScraperProject.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csprojAssemblyReference.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CoreCompileInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfoInputs.cache
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.AssemblyInfo.cs
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.csproj.CopyComplete
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.dll
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.pdb
+D:\TelegramDownloads\NewsPageCrawler (3)\NewsPageCrawler\DataRetriever\obj\Debug\netcoreapp3.1\DataRetriever.genruntimeconfig.cache
